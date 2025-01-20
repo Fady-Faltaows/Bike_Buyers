@@ -40,6 +40,7 @@ The dataset contains information about individuals, including their marital stat
 - **Columns**: Purchased Bike (No, Yes, Grand Total)
 - **Values**: Average of Income
 - **Visualization**: Bar plot
+
 ![Description of Chart 1](images/Average_Income_by_Gender_and_Purchase_Status.png)
 
 #### Pivot Table 2: Commute Distance by Purchase Status
@@ -47,6 +48,7 @@ The dataset contains information about individuals, including their marital stat
 - **Columns**: Purchased Bike (No, Yes, Grand Total)
 - **Values**: Count of Purchased Bike
 - **Visualization**: Line plot
+
 ![Description of Chart 1](images/Commute_Distance_by_Purchase_Status.png)
 
 #### Pivot Table 3: Age Brackets by Purchase Status
@@ -54,6 +56,7 @@ The dataset contains information about individuals, including their marital stat
 - **Columns**: Purchased Bike (No, Yes, Grand Total)
 - **Values**: Count of Purchased Bike
 - **Visualization**: Line plot
+
 ![Description of Chart 1](images/Age_Brackets_by_Purchase_Status.png)
 
 #### Additional Pivot Table: Age by Purchase Status
