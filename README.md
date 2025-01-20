@@ -41,7 +41,7 @@ The dataset contains information about individuals, including their marital stat
 - **Values**: Average of Income
 - **Visualization**: Bar plot
 
-![Chart 1](images/Average_Income_by_Gender_and_Purchase_Status.png)
+![Chart 1](images/Average_Income_by_Gender_and_Purchase_Status.PNG)
 
 #### Pivot Table 2: Commute Distance by Purchase Status
 - **Rows**: Commute Distance (e.g., 0-1 Miles, 1-2 Miles)
@@ -49,7 +49,7 @@ The dataset contains information about individuals, including their marital stat
 - **Values**: Count of Purchased Bike
 - **Visualization**: Line plot
 
-![Chart 2](images/Commute_Distance_by_Purchase_Status.png)
+![Chart 2](images/Commute_Distance_by_Purchase_Status.PNG)
 
 #### Pivot Table 3: Age Brackets by Purchase Status
 - **Rows**: Age Brackets (Adolescent, Middle Age, Old)
@@ -57,7 +57,7 @@ The dataset contains information about individuals, including their marital stat
 - **Values**: Count of Purchased Bike
 - **Visualization**: Line plot
 
-![Chart 3](images/Age_Brackets_by_Purchase_Status.png)
+![Chart 3](images/Age_Brackets_by_Purchase_Status.PNG)
 
 #### Additional Pivot Table: Age by Purchase Status
 - **Rows**: Individual ages (e.g., 25, 26, ...)
@@ -70,7 +70,7 @@ Added slicers to the dashboard for dynamic filtering:
 - **Education**
 - **Region**
 
-![Chart 4](images/Dashboard.png)
+![Chart 4](images/Dashboard.PNG)
 
 ## Key Insights
 - Income trends vary by gender and purchase status, with males generally having higher average incomes.
